@@ -285,13 +285,11 @@ The project is about playing simple poker, so I decided to arrange the functiona
 
 
 
-<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
 
 
 
 
-
-
+<h2 align="center">⭐ Feel free to explore repos and star if you find them interesting</h2>
 
 
 

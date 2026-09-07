@@ -1,12 +1,26 @@
-<div align="center">    
-# ♠️ <a href="https://github.com/Dreamerol/CARDFOLIO" title="View Poker Console Game in my CARDFOLIO - Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning">𝗣𝗢𝗖𝗞𝗘𝗥 𝗖𝗢𝗡𝗦𝗢𝗟𝗘 𝗚𝗔𝗠𝗘 – 𝗖++</a> ♠️ <div align="center"> </div> <a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/" title="View Poker Console Game – C++ in my AI Portfolio"> 
 
 
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZPOCKER777.png" alt="Poker Console Game – C++" style="width:100%; height:auto; margin-bottom:20px;"> </a> 
+<div align="center">
+
+#  ♠️ <a href="https://github.com/Dreamerol/CARDFOLIO" title="View Poker Console Game in my CARDFOLIO">𝗣𝗢𝗖𝗞𝗘𝗥 𝗖𝗢𝗡𝗦𝗢𝗟𝗘 𝗚𝗔𝗠𝗘 – 𝗖++</a>  ♠️
+
+<div align="center">
+
+</div>
+
+
 
 
 </div>
 
+<a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/"
+   title="View Poker Console Game – C++ in my AI Portfolio">
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZPOCKER777.png"
+       alt="Poker Console Game – C++"
+       style="width:100%; height:auto; margin-bottom:20px;">
+</a>
+
+</div>
 
 
 

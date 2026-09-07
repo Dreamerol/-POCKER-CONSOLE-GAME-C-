@@ -9,7 +9,12 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZPOCKER777.png" alt="POCKER" style="width:100%; height:auto; margin-bottom: 20px;">
+<a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/"
+   title="View Poker Console Game – C++ in my AI Portfolio">
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZPOCKER777.png"
+       alt="Poker Console Game – C++"
+       style="width:100%; height:auto; margin-bottom:20px;">
+</a>
 
 </div>
 
